@@ -2,6 +2,7 @@ import sys
 import os
 from collections import defaultdict
 
+# test
 # Mapper function
 for line in sys.stdin:
     filepath = os.environ["mapreduce_map_input_file"]  # Get the file path
